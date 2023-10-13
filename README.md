@@ -9,8 +9,8 @@
 
 ## Education:
 
-#### 1. [Universitas Negeri Semarang](https://www.ugm.ac.id) | Students Majoring in Informatics Engineering | Semarang `2021-Now`
+#### 1. [Universitas Negeri Semarang](https://unnes.ac.id/) | Students Majoring in Informatics Engineering | Semarang `2021-Now`
 
- #### 2. [SMA Negeri 1 Bumiayu](https://www.sman1kebumen.sch.id) | MIPA | Bumiayu `2019-2021`
+ #### 2. [SMA Negeri 1 Bumiayu]() | MIPA | Bumiayu `2019-2021`
 
 
