@@ -1,4 +1,4 @@
-# Hi there, I'm Vincent - aka [vincentwidyan](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ) 👋
+# Hi there, I'm Dony Benaya Dinova - aka [donybd]👋
 ## About me:
 
 - 🌱 I’m currently learning C++, MySQL
