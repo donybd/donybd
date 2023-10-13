@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hi there, I'm Vincent - aka [vincentwidyan](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ) 👋
+## About me:
 
-<!--
-**donybd/donybd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently learning C++, MySQL
+- 👯 I’m looking to collaborate on Web Development
+- 🤔 I’m looking for help with 
+- 💬 Ask me about anything
+- 📫 How to reach me: donybenaya5@gmail.com
 
-Here are some ideas to get you started:
+## Education:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 1. [Universitas Negeri Semarang](https://www.ugm.ac.id) | Students Majoring in Informatics Engineering | Semarang `2021-Now`
+
+ #### 2. [SMA Negeri 1 Bumiayu](https://www.sman1kebumen.sch.id) | MIPA | Bumiayu `2019-2021`
+
+
