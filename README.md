@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning C++, MySQL
 - 👯 I’m looking to collaborate on Web Development
-- 🤔 I’m looking for help with 
+- 🤔 I’m looking for suggest for web idea
 - 💬 Ask me about anything
 - 📫 How to reach me: donybenaya5@gmail.com
 
