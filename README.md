@@ -1,7 +1,6 @@
 # Hi there, I'm Dony Benaya Dinova - aka [donybd]👋
 # About me:
 
-- 🌱 I’m currently learning C++, MySQL
 - 👯 I’m looking to collaborate on Web Development
 - 🤔 I’m looking for suggest for web idea
 - 💬 Ask me about anything
