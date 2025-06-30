@@ -13,6 +13,16 @@
  #### 2. [SMA Negeri 1 Bumiayu]() | MIPA | Bumiayu `2019-2022`
 
 
+###
+
+<br clear="both">
+
+<div align="center">
+  <img height="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaG1iN3cwemYwM2ZvajY2ZzVrMHI4MTMxOThmZXo2Njh1aW5hNjNpcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0lGd2OXXHe4tFhb7Wh/giphy.gif"  />
+</div>
+
+###
+
 # 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dony.b.d) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/donybd) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:donybenaya5@gmail.com) 
 
