@@ -1,5 +1,5 @@
 # Hi there, I'm Dony Benaya Dinova - aka [donybd]👋
-## About me:
+# About me:
 
 - 🌱 I’m currently learning C++, MySQL
 - 👯 I’m looking to collaborate on Web Development
@@ -7,14 +7,14 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: donybenaya5@gmail.com
 
-## Education:
+# Education:
 
 #### 1. [Universitas Negeri Semarang](https://unnes.ac.id/) | Students Majoring in Informatics Engineering | Semarang `2022-Now`
 
  #### 2. [SMA Negeri 1 Bumiayu]() | MIPA | Bumiayu `2019-2022`
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/dony.b.d) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/donybd) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:donybenaya5@gmail.com) 
 
 # 💻 Tech Stack:
